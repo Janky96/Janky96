@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Janky96
+- 👀 I’m interested in Books, Movies and Programming
+- 🌱 I’m currently learning Back-End with Spring and Front-End with Angular
