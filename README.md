@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Janky96
-- 👀 I’m interested in Books, Movies and Programming
-- 🌱 I’m currently learning Back-End with Spring and Front-End with Angular
+# Janky96
+
+I work professionally with Spring Boot
+I know HTML and CSS - I am around intermediate level
+I am studying React and JS in my free time
