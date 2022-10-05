@@ -9,13 +9,13 @@ I am based in Italy, Cosenza
 
 &nbsp;
 
-###Programming
+### Programming
 I work professionally with Spring Boot  
 My HTML and CSS skills are around intermediate level  
 I am studying JS and React in my free time
 
 &nbsp;
 
-###Hobbies
+### Hobbies
 I love playing volleyball  
 I play Dota 2
