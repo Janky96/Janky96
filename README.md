@@ -4,7 +4,7 @@
 
 Hello there! 👋  
 My name is Jan Karsten  
-I am a professional Full Stack developer, with more than 2 years of experience
+I am a professional Full Stack developer, with more than 2 years of experience  
 I am based in Cosenza, Italy  
 
 &nbsp;
